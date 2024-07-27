@@ -1,8 +1,8 @@
-Amazons Global Store with PowerBI
+# Amazons Global Store with PowerBI
 
-I recently created a Simple Power BI dashboard for Amazon's Global Store using dataset from Kaggle 📊🌍
+This project analyses bank total orders from all over the world, Sales, Profits, Sales by Category etc.
 
-Here's what the Dashboard covers:-
+Here's what the Report covers:-
 
 - Comprehensive metrics such as total orders, customers, sales, profit, discounts, and product analytics.
 
