@@ -1,4 +1,4 @@
-#Amazons Global Store with PowerBI
+Amazons Global Store with PowerBI
 
 I recently created a Simple Power BI dashboard for Amazon's Global Store using dataset from Kaggle 📊🌍
 
